@@ -1,6 +1,6 @@
 metadata:
   name: hello
-  namespace: lasample
+  namespace: lamanifest
   labels:
     app: hello
 spec:
